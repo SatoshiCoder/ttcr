@@ -1,5 +1,0 @@
-Cách dùng tool
-B1:Vào https://shell.cloud.google.com/?fromcloudshell=true&show=terminal
-B2:dán dòng:git clone https://github.com/SatoshiCoder/ttcr
-B3:dán dòng: cd ttcr
-B4:python tool.py và ấn bắt đầu rồi chạy
